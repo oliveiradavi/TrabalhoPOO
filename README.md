@@ -37,24 +37,28 @@ private static final String SENHA = "SuaSenha";
 
 # Utilizando o sistema
 
-	Entre em Boundary > MenuPrincipal para rodar o programa.
+Entre em Boundary > MenuPrincipal para rodar o programa.
 	
-	Ao abrir o programa, podemos observar no canto esquerdo da tela um menu com 4 botões. Utilize esses botões para navegar entre as telas do programa.
+Ao abrir o programa, podemos observar no canto esquerdo da tela um menu com 4 botões. 
+Utilize esses botões para navegar entre as telas do programa.
 	
-	- Listar Produtos: Mostra automaticamente uma lista de todos os produtos já cadastrados no banco de dados especificado
+- Listar Produtos: 
+	Mostra automaticamente uma lista de todos os produtos já cadastrados no banco de dados especificado
 	
-	- Adicionar Produtos: É necessário digitar o nome do produto (texto), a descrição do produto(texto) e o preço do produto (double).
-		Exemplo: Produto: Prod
-				 Descrição: Desc
-				 Preço: 5.5
+- Adicionar Produtos: É necessário digitar o nome do produto (texto), a descrição do produto(texto) e o preço do produto (double).
+	Exemplo: Produto: Prod
+	 Descrição: Desc
+	 Preço: 5.5
 				 
-	- Editar Produtos: É necessário digitar o ID do produto e clicar em Procurar (os IDs podem ser visualizados ao clicar em Listar Produtos).
-					   Ao digitar um ID válido, os campos referentes ao produto procurado serão preenchidos na tela.
-					   Altere os campos que desejar (exceto o ID) e clique em Editar Produto.
-					   É possível observar a alteração verificado a lista de produtos cadastrados clicando em Listar Produtos.
+- Editar Produtos:
+	É necessário digitar o ID do produto e clicar em Procurar (os IDs podem ser visualizados ao clicar em Listar Produtos).
+	Ao digitar um ID válido, os campos referentes ao produto procurado serão preenchidos na tela.
+	Altere os campos que desejar (exceto o ID) e clique em Editar Produto.
+	É possível observar a alteração verificado a lista de produtos cadastrados clicando em Listar Produtos.
 					   
-	- Excluir Produtos: É necessário digitar o ID do produto e clicar em Procurar.
-						Ao digitar um ID válido, os campos referentes ao produto procurado serão preenchidos na tela.
-						Clique em Excluir Produto.
-						Uma janela de confirmação será aberta. Clique em "Yes" para confirmar a exclusão.
-						É possível observar a alteração verificado a lista de produtos cadastrados clicando em Listar Produtos.					   
+- Excluir Produtos:
+	É necessário digitar o ID do produto e clicar em Procurar.
+	Ao digitar um ID válido, os campos referentes ao produto procurado serão preenchidos na tela.
+	Clique em Excluir Produto.
+	Uma janela de confirmação será aberta. Clique em "Yes" para confirmar a exclusão.
+	É possível observar a alteração verificado a lista de produtos cadastrados clicando em Listar Produtos.					   
