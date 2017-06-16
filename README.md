@@ -25,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `produtopoo`.`produto` (
 ENGINE = InnoDB;
 ```
 
-## Edite as informações de login do MySQL
+# Edite as informações de login do MySQL
 
 Após importar o projeto, entre em src > factory > ConexaoFactory.java
 
@@ -35,7 +35,7 @@ private static final String USUARIO = "seuNomeDeUsuário";
 private static final String SENHA = "SuaSenha";
 ```
 
-- Utilizando o sistema
+# Utilizando o sistema
 
 	Entre em Boundary > MenuPrincipal para rodar o programa.
 	
