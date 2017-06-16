@@ -1,6 +1,4 @@
-# TrabalhoPOO
-
-Sistema de Controle de Produtos
+# Sistema de Controle de Produtos
 
 Para utilizar o sistema é necessário:
 
@@ -27,7 +25,7 @@ CREATE TABLE IF NOT EXISTS `produtopoo`.`produto` (
 ENGINE = InnoDB;
 ```
 
-## Edite as credenciais no programa
+## Edite as informações de login do MySQL
 
 Após importar o projeto, entre em src > factory > ConexaoFactory.java
 
