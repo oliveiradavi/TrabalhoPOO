@@ -45,7 +45,7 @@ Utilize esses botões para navegar entre as telas do programa.
 - Listar Produtos: 
 	Mostra automaticamente uma lista de todos os produtos já cadastrados no banco de dados especificado
 	
-- Adicionar Produtos: É necessário digitar o nome do produto (texto), a descrição do produto(texto) e o preço do produto (double).
+- Adicionar Produtos: É necessário digitar o nome do produto (texto/string), a descrição do produto(texto) e o preço do produto (double/float).
 	Exemplo: Produto: Prod
 	 Descrição: Desc
 	 Preço: 5.5
