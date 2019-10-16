@@ -18,7 +18,7 @@ USE produtopoo;
 
 CREATE TABLE IF NOT EXISTS `produtopoo`.`produto` (
   `idProduto` INT NOT NULL AUTO_INCREMENT,
-  `nomeProduto` VARCHAR(45) NULL,
+  `nomeProduto` VARCHAR(55) NULL,
   `descricaoProduto` VARCHAR(200) NULL,
   `valorProduto` DOUBLE NULL,
   PRIMARY KEY (`idProduto`))
