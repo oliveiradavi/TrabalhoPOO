@@ -51,7 +51,7 @@ Utilize esses botões para navegar entre as telas do programa.
 	 Preço: 5.5
 				 
 - Editar Produtos:
-	É necessário digitar o ID do produto e clicar em Procurar (os IDs podem ser visualizados ao clicar em Listar Produtos).
+	É necessário digitar o ID do produto e clicar em Procurar/Buscar (os IDs podem ser listados).
 	Ao digitar um ID válido, os campos referentes ao produto procurado serão preenchidos na tela.
 	Altere os campos que desejar (exceto o ID) e clique em Editar Produto.
 	É possível observar a alteração verificado a lista de produtos cadastrados clicando em Listar Produtos.
